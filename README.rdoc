@@ -2,8 +2,7 @@
 
 Prototype app
 
-Deployed on:
 
-* Heroku
+- Heroku
 
 URL: 
